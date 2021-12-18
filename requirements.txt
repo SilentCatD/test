@@ -1,7 +1,7 @@
 streamlit_drawable_canvas
 keras
 tensorflow
-PIL
+Pillow
 pandas
 numpy
 streamlit
